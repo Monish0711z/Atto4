@@ -23,7 +23,7 @@ const SERVERS = [
   {
     id: 'vidsrc',
     label: 'VidSrc',
-    baseUrl: "https://vidsrc.xyz/embed/tv/"
+    baseUrl: "https://cinejoy.to/watch/tv"
   }
 ];
 
